@@ -1,6 +1,6 @@
    <!------------ top html ---------------->
 
-   <?php include_once 'includes/tob.php' ?>
+   <?php include_once 'includes/top.php' ?>
 
    <!-------- top html end ---------------->
 
@@ -18,266 +18,196 @@
 
    <!-------- fixed-side end ---------------->
 
-
    <div class="app-content content">
      <div class="content-wrapper">
        <div class="content-header row">
        </div>
        <div class="content-body">
-         <!-- Analytics spakline & chartjs  -->
+         <!--Courses -->
+
          <div class="row">
-           <div class="col-lg-12 col-md-12 col-12">
+           <div class="col-xl-4 col-lg-6 col-12">
              <div class="card">
-               <div class="card-header border-0-bottom">
-                 <h4 class="card-title">Visitors Overview</h4>
-                 <a class="heading-elements-toggle"><i class="fa fa-ellipsis-v font-medium-3"></i></a>
-                 <div class="heading-elements">
-                   <ul class="list-inline mb-0">
-                     <li><a data-action="expand"><i class="ft-maximize"></i></a></li>
-                     <li><a data-action="reload"><i class="ft-rotate-cw"></i></a></li>
-                   </ul>
-                 </div>
-               </div>
                <div class="card-content">
-                 <div class="card-body">
-                   <div class="row my-1">
-                     <div class="col-lg-4 col-12">
-                       <div class="text-center">
-                         <h3>23,454</h3>
-                         <p class="text-muted">Page Views
-                           <span class="success"><i class="ft-arrow-up"></i> 8.16%</span>
-                         </p>
-                         <div id="sp-tristate-bar-total-revenue"></div>
-                       </div>
-                     </div>
-                     <div class="col-lg-4 col-12">
-                       <div class="text-center">
-                         <h3>6,630</h3>
-                         <p class="text-muted">Unique Visitor
-                           <span class="danger"><i class="ft-arrow-down"></i> 2.30%</span>
-                         </p>
-                         <div id="sp-stacked-bar-total-sales"></div>
-                       </div>
-                     </div>
-                     <div class="col-lg-4 col-12">
-                       <div class="text-center">
-                         <h3>86,578</h3>
-                         <p class="text-muted">Total Visits
-                           <span class="warning"><i class="ft-arrow-up"></i> 4.27%</span>
-                         </p>
-                         <div id="sp-bar-total-cost"></div>
-                       </div>
-                     </div>
+                 <div class="media align-items-stretch">
+                   <div class="p-2 text-center bg-primary bg-darken-2">
+                     <i class="icon-camera font-large-2 white"></i>
                    </div>
-                   <div class="row">
-                     <div class="col-12">
-                       <div class="chartjs">
-                         <canvas id="line-stacked-area" height="300"></canvas>
-                       </div>
-                       <ul class="list-inline text-center mt-1">
-                         <li class="mr-1">
-                           <h6><i class="fa fa-circle success"></i>
-                             <span>Page Views</span>
-                           </h6>
-                         </li>
-                         <li class="mr-1">
-                           <h6><i class="fa fa-circle warning"></i>
-                             <span>Total Visits</span>
-                           </h6>
-                         </li>
-                         <li class="mr-1">
-                           <h6><i class="fa fa-circle danger"></i>
-                             <span>Unique Visitor</span>
-                           </h6>
-                         </li>
-                       </ul>
-                     </div>
+                   <div class="p-2 bg-gradient-x-primary white media-body">
+                     <h5>Courses</h5>
+                     <h5 class="text-bold-400 mb-0"><i class="ft-plus"></i> 22</h5>
                    </div>
                  </div>
                </div>
              </div>
            </div>
+           <div class="col-xl-4 col-lg-6 col-12">
+             <div class="card">
+               <div class="card-content">
+                 <div class="media align-items-stretch">
+                   <div class="p-2 text-center bg-success bg-darken-2">
+                     <i class="icon-wallet font-large-2 white"></i>
+                   </div>
+                   <div class="p-2 bg-gradient-x-success white media-body">
+                     <h5>Confirmed</h5>
+                     <h5 class="text-bold-400 mb-0"><i class="ft-arrow-up"></i>287</h5>
+                   </div>
+                 </div>
+               </div>
+             </div>
+           </div>
+           <div class="col-xl-4 col-lg-6 col-12">
+             <div class="card">
+               <div class="card-content">
+                 <div class="media align-items-stretch">
+                   <div class="p-2 text-center bg-warning bg-darken-2">
+                     <i class="icon-basket-loaded font-large-2 white"></i>
+                   </div>
+                   <div class="p-2 bg-gradient-x-warning white media-body">
+                     <h5>Enrolled</h5>
+                     <h5 class="text-bold-400 mb-0"><i class="ft-arrow-down"></i>311</h5>
+                   </div>
+                 </div>
+               </div>
+             </div>
+           </div>
+
          </div>
-         <!--/ Analytics spakline & chartjs  -->
-         <!--stats-->
+         <!--/ Courses -->
+
+         <!--/ Courses second row -->
+
          <div class="row">
-           <div class="col-xl-3 col-lg-6 col-12">
+           <div class="col-xl-4 col-lg-6 col-12">
              <div class="card">
                <div class="card-content">
-                 <div class="card-body">
-                   <div class="media">
-                     <div class="media-body text-left w-100">
-                       <h3 class="primary">78%</h3>
-                       <span>New Session</span>
-                     </div>
-                     <div class="media-right media-middle">
-                       <i class="icon-user-follow primary font-large-2 float-right"></i>
-                     </div>
+                 <div class="media align-items-stretch">
+                   <div class="p-2 text-center bg-primary bg-darken-2">
+                     <i class="icon-camera font-large-2 white"></i>
                    </div>
-                   <div class="progress progress-sm mt-1 mb-0">
-                     <div class="progress-bar bg-primary" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                   <div class="p-2 bg-gradient-x-primary white media-body">
+                     <h5>Trainers</h5>
+                     <h5 class="text-bold-400 mb-0"><i class="ft-plus"></i> 13</h5>
                    </div>
                  </div>
                </div>
              </div>
            </div>
-           <div class="col-xl-3 col-lg-6 col-12">
+           <div class="col-xl-4 col-lg-6 col-12">
              <div class="card">
                <div class="card-content">
-                 <div class="card-body">
-                   <div class="media">
-                     <div class="media-body text-left w-100">
-                       <h3 class="danger">423</h3>
-                       <span>Total Visits</span>
-                     </div>
-                     <div class="media-right media-middle">
-                       <i class="icon-social-dropbox danger font-large-2 float-right"></i>
-                     </div>
+                 <div class="media align-items-stretch">
+                   <div class="p-2 text-center bg-danger bg-darken-2">
+                     <i class="icon-user font-large-2 white"></i>
                    </div>
-                   <div class="progress progress-sm mt-1 mb-0">
-                     <div class="progress-bar bg-danger" role="progressbar" style="width: 40%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                   <div class="p-2 bg-gradient-x-danger white media-body">
+                     <h5>waiting List</h5>
+                     <h5 class="text-bold-400 mb-0"><i class="ft-arrow-up"></i>14</h5>
                    </div>
                  </div>
                </div>
              </div>
            </div>
-           <div class="col-xl-3 col-lg-6 col-12">
+           <div class="col-xl-4 col-lg-6 col-12">
              <div class="card">
                <div class="card-content">
-                 <div class="card-body">
-                   <div class="media">
-                     <div class="media-body text-left w-100">
-                       <h3 class="success">64.89 %</h3>
-                       <span>Bounce Rate</span>
-                     </div>
-                     <div class="media-right media-middle">
-                       <i class="icon-layers success font-large-2 float-right"></i>
-                     </div>
+                 <div class="media align-items-stretch">
+                   <div class="p-2 text-center bg-warning bg-darken-2">
+                     <i class="icon-basket-loaded font-large-2 white"></i>
                    </div>
-                   <div class="progress progress-sm mt-1 mb-0">
-                     <div class="progress-bar bg-success" role="progressbar" style="width: 60%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                   <div class="p-2 bg-gradient-x-warning white media-body">
+                     <h5>Blog Post</h5>
+                     <h5 class="text-bold-400 mb-0"><i class="ft-arrow-down"></i> 32</h5>
                    </div>
                  </div>
                </div>
              </div>
            </div>
-           <div class="col-xl-3 col-lg-6 col-12">
-             <div class="card">
-               <div class="card-content">
-                 <div class="card-body">
-                   <div class="media">
-                     <div class="media-body text-left w-100">
-                       <h3 class="warning">02.12</h3>
-                       <span>Session Duration</span>
-                     </div>
-                     <div class="media-right media-middle">
-                       <i class="icon-globe warning font-large-2 float-right"></i>
-                     </div>
-                   </div>
-                   <div class="progress progress-sm mt-1 mb-0">
-                     <div class="progress-bar bg-warning" role="progressbar" style="width: 35%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                   </div>
-                 </div>
-               </div>
-             </div>
-           </div>
+
          </div>
-         <!--/stats-->
-         <!-- Audience by country & users visit-->
+         <!--/ Courses second row -->
+
+         <!--Recent Paid & Recent Enrolled -->
+
          <div class="row match-height">
-           <div class="col-xl-6 col-lg-12">
+           <div class="col-xl-8 col-lg-12">
+             <div class="page-separator">
+               <div class="page-separator__text">Payments</div>
+             </div>
              <div class="card">
-               <div class="card-header border-0">
-                 <h4 class="card-title">Avg. Session Duration & Pages/Session</h4>
+               <div class="card-header">
+
+                 <h4 class="card-title">Recent Paids</h4>
                  <a class="heading-elements-toggle"><i class="fa fa-ellipsis-v font-medium-3"></i></a>
                  <div class="heading-elements">
                    <ul class="list-inline mb-0">
                      <li><a data-action="reload"><i class="ft-rotate-cw"></i></a></li>
+                     <li><a data-action="expand"><i class="ft-maximize"></i></a></li>
                    </ul>
                  </div>
                </div>
                <div class="card-content">
                  <div class="card-body">
-                   <div id="area-chart" class="height-250"></div>
+                   <p>Total paid invoices 240, unpaid 150.
+                     <span class="float-right"><a href="project-summary.html" target="_blank">Invoice Summary <i class="ft-arrow-right"></i></a></span>
+                   </p>
                  </div>
-               </div>
-             </div>
-           </div>
-           <div class="col-xl-6 col-lg-12">
-             <div class="card">
-               <div class="card-header border-0">
-                 <h4 class="card-title">Goals Complition</h4>
-                 <a class="heading-elements-toggle"><i class="fa fa-ellipsis-v font-medium-3"></i></a>
-                 <div class="heading-elements">
-                   <ul class="list-inline mb-0">
-                     <li><a data-action="reload"><i class="ft-rotate-cw"></i></a></li>
-                   </ul>
-                 </div>
-               </div>
-               <div class="card-content">
-                 <div id="goal-list-scroll" class="table-responsive height-250 position-relative">
-                   <table class="table mb-0">
+                 <div class="table-responsive">
+                   <table id="recent-orders" class="table table-hover mb-0 ps-container ps-theme-default">
                      <thead>
                        <tr>
-                         <th>Goals</th>
-                         <th>Goal Value</th>
-                         <th>Conversion rate</th>
+
+                         <th>Invoice#</th>
+                         <th>Enroller Name</th>
+                         <th>Status</th>
+                         <th>Amount</th>
                        </tr>
                      </thead>
                      <tbody>
                        <tr>
-                         <td>Account</td>
-                         <td>$0.18</td>
-                         <td class="text-center font-small-2">85%
-                           <div class="progress progress-sm mt-1 mb-0">
-                             <div class="progress-bar bg-success" role="progressbar" style="width: 95%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
+
+                         <td class="text-truncate"><a href="#">INV-001001</a></td>
+                         <td class="text-truncate">Elizabeth W.</td>
+                         <td class="text-truncate">
+                           <span class="badge badge-default badge-success">Paid</span>
                          </td>
+                         <td class="text-truncate">Rs 1200.00</td>
                        </tr>
                        <tr>
-                         <td>Subscribe</td>
-                         <td>$0.12</td>
-                         <td class="text-center font-small-2">75%
-                           <div class="progress progress-sm mt-1 mb-0">
-                             <div class="progress-bar bg-success" role="progressbar" style="width: 85%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
+
+                         <td class="text-truncate"><a href="#">INV-01112</a></td>
+                         <td class="text-truncate">Doris R.</td>
+                         <td class="text-truncate">
+                           <span class="badge badge-default badge-warning">Pending</span>
                          </td>
+                         <td class="text-truncate">Rs 5685.00</td>
                        </tr>
                        <tr>
-                         <td>Mobile</td>
-                         <td>$220</td>
-                         <td class="text-center font-small-2">65%
-                           <div class="progress progress-sm mt-1 mb-0">
-                             <div class="progress-bar bg-warning" role="progressbar" style="width: 55%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
+
+                         <td class="text-truncate"><a href="#">INV-001012</a></td>
+                         <td class="text-truncate">Andrew D.</td>
+                         <td class="text-truncate">
+                           <span class="badge badge-default badge-success">Paid</span>
                          </td>
+                         <td class="text-truncate">Rs 152.00</td>
                        </tr>
                        <tr>
-                         <td>Laptop</td>
-                         <td>$880</td>
-                         <td class="text-center font-small-2">35%
-                           <div class="progress progress-sm mt-1 mb-0">
-                             <div class="progress-bar bg-warning" role="progressbar" style="width: 45%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
+
+                         <td class="text-truncate"><a href="#">INV-001401</a></td>
+                         <td class="text-truncate">Megan S.</td>
+                         <td class="text-truncate">
+                           <span class="badge badge-default badge-success">Paid</span>
                          </td>
+                         <td class="text-truncate">Rs 1450.00</td>
                        </tr>
                        <tr>
-                         <td>LED TV</td>
-                         <td>$1002</td>
-                         <td class="text-center font-small-2">25%
-                           <div class="progress progress-sm mt-1 mb-0">
-                             <div class="progress-bar bg-warning" role="progressbar" style="width: 30%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
+
+                         <td class="text-truncate"><a href="#">INV-008101</a></td>
+                         <td class="text-truncate">Walter R.</td>
+                         <td class="text-truncate">
+                           <span class="badge badge-default badge-warning">Pending</span>
                          </td>
-                       </tr>
-                       <tr>
-                         <td>AC</td>
-                         <td>$1200</td>
-                         <td class="text-center font-small-2">15%
-                           <div class="progress progress-sm mt-1 mb-0">
-                             <div class="progress-bar bg-success" role="progressbar" style="width: 15%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
-                         </td>
+                         <td class="text-truncate">Rs 685.00</td>
                        </tr>
                      </tbody>
                    </table>
@@ -285,73 +215,10 @@
                </div>
              </div>
            </div>
-         </div>
-         <!--/ Audience by country  & users visit -->
-         <!-- Analytics map based session -->
-         <div class="row">
-           <div class="col-12">
-             <div class="card box-shadow-0">
-               <div class="card-content">
-                 <div class="row">
-                   <div class="col-xl-9 col-lg-12">
-                     <div id="world-map-markers" class="height-450"></div>
-                   </div>
-                   <div class="col-xl-3 col-lg-12">
-                     <div class="card-body">
-                       <h4 class="card-title mb-0">Visitors Sessions</h4>
-                       <div class="row">
-                         <div class="col-xl-12 col-lg-6 col-sm-12">
-                           <p class="pb-1">Sessions by Browser</p>
-                           <div id="sessions-browser-donut-chart" class="height-200"></div>
-                         </div>
-                         <div class="col-xl-12 col-lg-6 col-sm-12">
-                           <div class="sales pr-2 pt-2">
-                             <div class="sales-today mb-2">
-                               <p class="m-0">Today's
-                                 <span class="primary float-right"><i class="ft-arrow-up primary"></i> 6.89%</span>
-                               </p>
-                               <div class="progress progress-sm mt-1 mb-0">
-                                 <div class="progress-bar bg-primary" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                               </div>
-                             </div>
-                             <div class="sales-yesterday">
-                               <p class="m-0">Yesterday's
-                                 <span class="danger float-right"><i class="ft-arrow-down danger"></i> 4.18%</span>
-                               </p>
-                               <div class="progress progress-sm mt-1 mb-0">
-                                 <div class="progress-bar bg-danger" role="progressbar" style="width: 65%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                               </div>
-                             </div>
-                           </div>
-                         </div>
-                       </div>
-                     </div>
-                   </div>
-                 </div>
-               </div>
-             </div>
-           </div>
-         </div>
-         <!-- Analytics map based session -->
-         <!-- Bounce Rate & List -->
-         <div class="row match-height">
            <div class="col-xl-4 col-lg-12">
              <div class="card">
-               <div class="card-content">
-                 <div class="card-body sales-growth-chart">
-                   <div class="chart-title">
-                     <h1 class="display-4">32%</h1>
-                     <span class="text-muted">Bounce Rate</span>
-                   </div>
-                   <div id="bounce-rate" class="height-250"></div>
-                 </div>
-               </div>
-             </div>
-           </div>
-           <div class="col-xl-8 col-lg-12">
-             <div class="card">
-               <div class="card-header border-0">
-                 <h4 class="card-title">Audience by Country</h4>
+               <div class="card-header">
+                 <h4 class="card-title">Recent Enrollers</h4>
                  <a class="heading-elements-toggle"><i class="fa fa-ellipsis-v font-medium-3"></i></a>
                  <div class="heading-elements">
                    <ul class="list-inline mb-0">
@@ -359,127 +226,111 @@
                    </ul>
                  </div>
                </div>
-               <div class="card-content">
-                 <div id="audience-list-scroll" class="table-responsive height-300 position-relative">
-                   <table class="table mb-0">
-                     <thead>
-                       <tr>
-                         <th>Country</th>
-                         <th>Page views</th>
-                         <th>Device</th>
-                         <th>% Bounce rate</th>
-                       </tr>
-                     </thead>
-                     <tbody>
-                       <tr>
-                         <td><i class="flag-icon flag-icon-gb"></i> United State</td>
-                         <td>18</td>
-                         <td>Desktop</td>
-                         <td class="text-center font-small-2">85%
-                           <div class="progress progress-sm mt-1 mb-0">
-                             <div class="progress-bar bg-success" role="progressbar" style="width: 85%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
-                         </td>
-                       </tr>
-                       <tr>
-                         <td><i class="flag-icon flag-icon-au"></i> Australia</td>
-                         <td>12</td>
-                         <td>Mobile</td>
-                         <td class="text-center font-small-2">75%
-                           <div class="progress progress-sm mt-1 mb-0">
-                             <div class="progress-bar bg-success" role="progressbar" style="width: 75%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
-                         </td>
-                       </tr>
-                       <tr>
-                         <td><i class="flag-icon flag-icon-br"></i> Brazil</td>
-                         <td>25</td>
-                         <td>Tablet</td>
-                         <td class="text-center font-small-2">66%
-                           <div class="progress progress-sm mt-1 mb-0">
-                             <div class="progress-bar bg-success" role="progressbar" style="width: 66%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
-                         </td>
-                       </tr>
-                       <tr>
-                         <td><i class="flag-icon flag-icon-gb"></i> Great Britain (UK)</td>
-                         <td>8</td>
-                         <td>Mobile</td>
-                         <td class="text-center font-small-2">58%
-                           <div class="progress progress-sm mt-1 mb-0">
-                             <div class="progress-bar bg-warning" role="progressbar" style="width: 85%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
-                         </td>
-                       </tr>
-                       <tr>
-                         <td><i class="flag-icon flag-icon-hk"></i> Hong Kong</td>
-                         <td>18</td>
-                         <td>Desktop</td>
-                         <td class="text-center font-small-2">45%
-                           <div class="progress progress-sm mt-1 mb-0">
-                             <div class="progress-bar bg-warning" role="progressbar" style="width: 45%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
-                         </td>
-                       </tr>
-                       <tr>
-                         <td><i class="flag-icon flag-icon-in"></i> India</td>
-                         <td>10</td>
-                         <td>Desktop</td>
-                         <td class="text-center font-small-2">38%
-                           <div class="progress progress-sm mt-1 mb-0">
-                             <div class="progress-bar bg-warning" role="progressbar" style="width: 38%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
-                         </td>
-                       </tr>
-                       <tr>
-                         <td><i class="flag-icon flag-icon-jp"></i> Japan</td>
-                         <td>11</td>
-                         <td>Moblie</td>
-                         <td class="text-center font-small-2">25%
-                           <div class="progress progress-sm mt-1 mb-0">
-                             <div class="progress-bar bg-danger" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
-                         </td>
-                       </tr>
-                       <tr>
-                         <td><i class="flag-icon flag-icon-mx"></i> Mexico</td>
-                         <td>15</td>
-                         <td>Tablet</td>
-                         <td class="text-center font-small-2">22%
-                           <div class="progress progress-sm mt-1 mb-0">
-                             <div class="progress-bar bg-danger" role="progressbar" style="width: 22%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
-                         </td>
-                       </tr>
-                       <tr>
-                         <td><i class="flag-icon flag-icon-ma"></i> Morocco</td>
-                         <td>14</td>
-                         <td>Moblie</td>
-                         <td class="text-center font-small-2">18%
-                           <div class="progress progress-sm mt-1 mb-0">
-                             <div class="progress-bar bg-danger" role="progressbar" style="width: 18%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
-                         </td>
-                       </tr>
-                     </tbody>
-                   </table>
+               <div class="card-content px-1">
+                 <div id="recent-buyers" class="media-list height-300 position-relative">
+                   <a href="#" class="media border-0">
+                     <div class="media-left pr-1">
+                       <span class="avatar avatar-md avatar-online">
+                         <img class="media-object rounded-circle" src="assets/images/portrait/small/avatar-s-7.png" alt="Generic placeholder image">
+                         <i></i>
+                       </span>
+                     </div>
+                     <div class="media-body w-100">
+                       <h6 class="list-group-item-heading">Kristopher Candy
+                       </h6>
+                       <p class="list-group-item-text mb-0">
+                         <span class="badge badge-primary">PHP</span>
+                         <span class="badge badge-warning ml-1">Laravel</span>
+                       </p>
+                     </div>
+                   </a>
+                   <a href="#" class="media border-0">
+                     <div class="media-left pr-1">
+                       <span class="avatar avatar-md avatar-away">
+                         <img class="media-object rounded-circle" src="assets/images/portrait/small/avatar-s-8.png" alt="Generic placeholder image">
+                         <i></i>
+                       </span>
+                     </div>
+                     <div class="media-body w-100">
+                       <h6 class="list-group-item-heading">Lawrence Fowler
+                       </h6>
+                       <p class="list-group-item-text mb-0">
+                         <span class="badge badge-danger">Appliances</span>
+                       </p>
+                     </div>
+                   </a>
+                   <a href="#" class="media border-0">
+                     <div class="media-left pr-1">
+                       <span class="avatar avatar-md avatar-busy">
+                         <img class="media-object rounded-circle" src="assets/images/portrait/small/avatar-s-9.png" alt="Generic placeholder image">
+                         <i></i>
+                       </span>
+                     </div>
+                     <div class="media-body w-100">
+                       <h6 class="list-group-item-heading">Linda Olson
+                       </h6>
+                       <p class="list-group-item-text mb-0">
+                         <span class="badge badge-primary">PHP</span>
+                         <span class="badge badge-success ml-1">Office</span>
+                       </p>
+                     </div>
+                   </a>
+                   <a href="#" class="media border-0">
+                     <div class="media-left pr-1">
+                       <span class="avatar avatar-md avatar-online">
+                         <img class="media-object rounded-circle" src="assets/images/portrait/small/avatar-s-10.png" alt="Generic placeholder image">
+                         <i></i>
+                       </span>
+                     </div>
+                     <div class="media-body w-100">
+                       <h6 class="list-group-item-heading">Roy Clark
+                       </h6>
+                       <p class="list-group-item-text mb-0">
+                         <span class="badge badge-warning">Laravel</span>
+                         <span class="badge badge-danger ml-1">Appliances</span>
+                       </p>
+                     </div>
+                   </a>
+                   <a href="#" class="media border-0">
+                     <div class="media-left pr-1">
+                       <span class="avatar avatar-md avatar-online">
+                         <img class="media-object rounded-circle" src="assets/images/portrait/small/avatar-s-11.png" alt="Generic placeholder image">
+                         <i></i>
+                       </span>
+                     </div>
+                     <div class="media-body w-100">
+                       <h6 class="list-group-item-heading">Kristopher Candy
+                       </h6>
+                       <p class="list-group-item-text mb-0">
+                         <span class="badge badge-primary">PHP</span>
+                         <span class="badge badge-warning ml-1">Laravel</span>
+                       </p>
+                     </div>
+                   </a>
+                   <a href="#" class="media border-0">
+                     <div class="media-left pr-1">
+                       <span class="avatar avatar-md avatar-away">
+                         <img class="media-object rounded-circle" src="assets/images/portrait/small/avatar-s-12.png" alt="Generic placeholder image">
+                         <i></i>
+                       </span>
+                     </div>
+                     <div class="media-body w-100">
+                       <h6 class="list-group-item-heading">Lawrence Fowler
+                       </h6>
+                       <p class="list-group-item-text mb-0">
+                         <span class="badge badge-danger">Appliances</span>
+                       </p>
+                     </div>
+                   </a>
                  </div>
                </div>
              </div>
            </div>
          </div>
-         <!--/ Bounce Rate & List -->
+         <!--/Recent Payments & Recent Enrollers -->
        </div>
      </div>
    </div>
-
-   <!------------ footer ---------------->
-
-   <?php include_once 'includes/footer.php' ?>
-
-   <!------------ footer end ---------------->
-
-
    <!------------ bottom html ---------------->
 
    <?php include_once 'includes/bottom.php' ?>

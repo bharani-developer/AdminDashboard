@@ -21,14 +21,21 @@
   <link rel="stylesheet" type="text/css" href="assets/css/vendors.css">
   <link rel="stylesheet" type="text/css" href="assets/css/datatables.min.css">
   <link rel="stylesheet" type="text/css" href="assets/css/app.min.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/jquery.bootstrap-touchspin.js">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
 
   <!-- END Page Level CSS-->
 
-
+  <link rel="stylesheet" type="text/css" href="assets/css/daterangepicker.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/pickadate.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/daterange.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/jquery.bootstrap-touchspin.css">
 
   <!-- BEGIN Custom CSS-->
+  <link rel="stylesheet" type="text/css" href="assets/css/appstyle.css">
   <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.9/summernote-bs4.css" rel="stylesheet">
   <!-- END Custom CSS-->
 
 

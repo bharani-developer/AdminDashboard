@@ -53,11 +53,11 @@
          <!-- Zero configuration table -->
          <section id="configuration">
            <div class="row">
-             <div class="col-8">
+             <div class="col-7">
                <div class="card">
 
                  <div class="card-content collapse show">
-                   <div class="card-body card-dashboard">
+                   <div class="card-dashboard">
 
                      <table class="table table-striped table-bordered zero-configuration">
                        <thead>
@@ -214,24 +214,17 @@
 
 
                        </tbody>
-                       <tfoot>
-                         <tr>
-                           <th>S.No</th>
-                           <th>Course Name</th>
-                           <th>Short Name</th>
-                           <th>Action</th>
-                         </tr>
-                       </tfoot>
+                      
                      </table>
                    </div>
                  </div>
                </div>
              </div>
-             <div class="col-4">
+             <div class="col-5">
                <div class="card">
 
                  <div class="card-content collapse show">
-                   <div class="card-body card-dashboard">
+                   <div class="card-dashboard">
 
                      <table class="table table-striped table-bordered zero-configuration">
                        <thead>
@@ -365,16 +358,7 @@
 
 
                        </tbody>
-                       <tfoot>
-                         <tr>
-                           <th>S.No</th>
-                           <th>Image</th>
-                           <th>Name</th>
-                           <th>Desigination</th>
-                           <th>Content</th>
-                           <th class="justify-content-center">Action</th>
-                         </tr>
-                       </tfoot>
+                      
                      </table>
                    </div>
                  </div>

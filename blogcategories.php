@@ -88,7 +88,7 @@
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
                                             
-                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#editcategory"><i class="fa fa-edit"></i></a>
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" ><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -405,13 +405,7 @@
                                     </tr>
 
                                  </tbody>
-                                 <tfoot>
-                                    <tr>
-                                       <th>S.No</th>
-                                       <th>Name</th>
-                                       <th>Action</th>
-                                    </tr>
-                                 </tfoot>
+                                
                               </table>
                            </div>
                         </div>
@@ -420,7 +414,7 @@
 
 
                   <div class="content-header-right col-md-5 col-12">
-                     <h5>Add Category</h5>
+                     <h5>Add / Update Category</h5>
 <br>
 <br>
                      <form class="validate1" action="#" id="curriculum-form" method="POST">
@@ -439,10 +433,9 @@
                            </div>
 
                         </div>
-                        <input type="hidden" name="type" value="2">
-                        <div class="col-12">
+                   
                                 <button type="submit" class="btn btn-primary">Submit</button>
-                            </div>
+                       
 
                      </form>
                   </div>
@@ -456,40 +449,7 @@
       </div>
 
    </div>
-   <div class="modal fade text-left" id="editcategory" tabindex="-1" role="dialog" aria-labelledby="myModalLabel2" aria-hidden="true">
-       <div class="modal-dialog" role="document">
-           <div class="modal-content">
-               <div class="modal-header">
-                   <h4 class="modal-title" id="myModalLabel2"><i class="fas fa-hashtag"></i>
-                       Category</h4>
-                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                       <span aria-hidden="true">&times;</span>
-                   </button>
-               </div>
-               <div class="modal-body">
-                   <div class="row">
-                       <div class="col-xl-12 col-lg-12 col-md-12 mb-1">
-                           <fieldset class="form-group">
-                               <label for="basicInput">Category Name<font class="text-danger">*</font></label>
-                               <input type="text" class="form-control" id="basicInput">
-                           </fieldset>
-                       </div>
-                       <div class="col-xl-12 col-lg-12 col-md-12 mb-1">
-                           <fieldset class="form-group">
-                               <label for="basicInput">Category Url<font class="text-danger">*</font></label>
-                               <input type="text" class="form-control" id="basicInput">
-                           </fieldset>
-                       </div>
-                       
-                   <div class="modal-footer">
-                       <button type="button" class="btn grey btn-outline-secondary" data-dismiss="modal">Close</button>
-                       <button type="button" class="btn btn-outline-primary">Save changes</button>
-                   </div>
-               </div>
-           </div>
-       </div>
-   </div>
-   </div>
+   
    <!-- ////////////////////////////////////////////////////////////////////////////-->
 
 

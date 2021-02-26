@@ -40,22 +40,19 @@
            <h3 class="content-header-title mb-0">Course Name</h3>
          </div>
          <div class="content-header-right col-md-6 col-12">
-         
+
          </div>
        </div>
-       <div class="btn-group float-md-right" role="group" aria-label="Button group with nested dropdown">
-             
-            <a href="coursecurriculam.php"> <button type="button" class="btn btn-primary btn-min-width mr-1 mb-1 square"><i class="fa fa-plus"></i>Curriculum</button></a>
-             <a href="courseintro.php"><button type="button" class="btn btn-primary btn-min-width mr-1 mb-1 square"><i class="fa fa-plus"></i> Course Intro Description</button></a>
-            <a href="coursefaq.php"> <button type="button" class="btn btn-primary btn-min-width mr-1 mb-1 square"><i class="fa fa-plus"></i> Course FAQ</button></a>
-            <a href="coursebranch.php"> <button type="button" class="btn btn-primary btn-min-width mr-1 mb-1 square"><i class="fa fa-plus"></i> Branch</button></a>
-             <a href="coursegallery.php"><button type="button" class="btn btn-primary btn-min-width mr-1 mb-1 square"><i class="fa fa-plus"></i> Gallery</button></a>
-             <a href="coursecertificationprocess.php"><button type="button" class="btn btn-primary btn-min-width mr-1 mb-1 square"><i class="fa fa-plus"></i> Certification Proccess</button></a>
-            <a href="editcourse.php"> <button type="button" class="btn btn-primary btn-min-width mr-1 mb-1 square"><i class="fa fa-plus"></i> Edit</button></a>
-             <button type="button" class="btn btn-primary btn-min-width mr-1 mb-1 square"><i class="fa fa-arrow-circle-left"></i> Back</button>
+       <div class="btn-group float-md-right row btn-group " role="group" aria-label="Button group with nested dropdown">
 
-           
-           </div>
+         <a href="coursecurriculam.php"> <button type="button" class="btn btn-primary btn-min-width mr-1 mb-1 square"><i class="fa fa-plus"></i>Curriculum</button></a>
+         <a href="courseintro.php"><button type="button" class="btn btn-primary btn-min-width mr-1 mb-1 square"><i class="fa fa-plus"></i> Course Intro Description</button></a>
+         <a href="coursefaq.php"> <button type="button" class="btn btn-primary btn-min-width mr-1 mb-1 square"><i class="fa fa-plus"></i> Course FAQ</button></a>
+         <a href="coursebranch.php"> <button type="button" class="btn btn-primary btn-min-width mr-1 mb-1 square"><i class="fa fa-plus"></i> Branch</button></a>
+         <a href="coursegallery.php"><button type="button" class="btn btn-primary btn-min-width mr-1 mb-1 square"><i class="fa fa-plus"></i> Gallery</button></a>
+         <a href="coursecertificationprocess.php"><button type="button" class="btn btn-primary btn-min-width mr-1 mb-1 square"><i class="fa fa-plus"></i> Certification Proccess</button></a>
+         <a href="editcourse.php"> <button type="button" class="btn btn-primary btn-min-width mr-1 mb-1 square"><i class="fa fa-edit"></i> Edit</button></a>
+       </div>
        <div class="content-body">
          <!-- Basic Tables start -->
          <div class="row">

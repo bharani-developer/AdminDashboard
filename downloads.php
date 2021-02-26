@@ -283,17 +283,7 @@
                         </tr>
                        
                       </tbody>
-                      <tfoot>
-                        <tr>
-                        <th>S.No</th>
-                          <th>Name</th>
-                          <th>Email</th>
-                          <th>Mobile</th>
-                          <th>Course</th>
-                          <th>Type</th>
-                          
-                        </tr>
-                      </tfoot>
+                      
                     </table>
                   </div>
                 </div>

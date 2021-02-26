@@ -18,7 +18,7 @@
     <div class="navbar-container content">
       <div class="collapse navbar-collapse" id="navbar-mobile">
         <ul class="nav navbar-nav mr-auto float-left">
-          <li class="nav-item d-none d-md-block"><a class="nav-link nav-menu-main menu-toggle hidden-xs is-active" href="#"><i class="ft-menu"></i></a></li>
+          <li class="nav-item d-none d-md-block"><a class="nav-link nav-menu-main menu-toggle hidden-xs is-active" href="#"><i class="fas fa-bars"></i></a></li>
 
 
           <div class="search-input">
@@ -29,7 +29,7 @@
         <ul class="nav navbar-nav float-right">
 
           <li class="dropdown dropdown-notification nav-item">
-            <a class="nav-link nav-link-label" href="#" data-toggle="dropdown"><i class="ficon ft-bell"></i>
+            <a class="nav-link nav-link-label" href="#" data-toggle="dropdown"><i class="far fa-bell"></i>
               <span class="badge badge-pill badge-default badge-danger badge-default badge-up">5</span>
             </a>
             <ul class="dropdown-menu dropdown-menu-media dropdown-menu-right">
@@ -42,7 +42,6 @@
               <li class="scrollable-container media-list ps-container ps-theme-dark ps-active-y" data-ps-id="b2ccf6a3-5a87-fbd4-044a-dc32639385bf">
                 <a href="javascript:void(0)">
                   <div class="media">
-                    <div class="media-left align-self-center"><i class="ft-plus-square icon-bg-circle bg-cyan"></i></div>
                     <div class="media-body">
                       <h6 class="media-heading">You have new order!</h6>
                       <p class="notification-text font-small-3 text-muted">Lorem ipsum dolor sit amet, consectetuer elit.</p>
@@ -109,7 +108,7 @@
             </ul>
           </li>
           <li class="dropdown dropdown-notification nav-item">
-            <a class="nav-link nav-link-label" href="#" data-toggle="dropdown"><i class="ficon ft-mail"></i>
+            <a class="nav-link nav-link-label" href="#" data-toggle="dropdown"><i class="far fa-envelope"></i>
               <span class="badge badge-pill badge-default badge-warning badge-default badge-up">3</span>
             </a>
             <ul class="dropdown-menu dropdown-menu-media dropdown-menu-right">
@@ -198,7 +197,7 @@
             </a>
             <div class="dropdown-menu dropdown-menu-right">
              
-              <a class="dropdown-item" href="login-with-bg-image.html"><i class="ft-power"></i> Logout</a>
+              <a class="dropdown-item" href="login-with-bg-image.html">Logout</a>
             </div>
           </li>
         </ul>

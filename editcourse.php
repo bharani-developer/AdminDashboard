@@ -30,8 +30,10 @@
                            <ol class="breadcrumb">
                                <li class="breadcrumb-item"><a href="index.html">Home</a>
                                </li>
+                               <li class="breadcrumb-item"><a href="index.html">Course</a>
+                               </li>
 
-                               <li class="breadcrumb-item active">Create Courses
+                               <li class="breadcrumb-item active">Edit Courses
                                </li>
                            </ol>
                        </div>
@@ -51,7 +53,7 @@
                            <div class="col-md-12">
                                <div class="card">
                                    <div class="card-header">
-                                       <h4 class="card-title">Create Courses</h4>
+                                       <h4 class="card-title">Edit Courses</h4>
                                    </div>
 
                                    <div class="card-content">
@@ -62,19 +64,19 @@
                                                <div class="row">
                                                    <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
                                                        <fieldset class="form-group">
-                                                           <label for="basicInput">Course Title</label>
+                                                           <label for="basicInput">Course Title<span class="text-danger">*</span></label>
                                                            <input name="course_title" type="text" class="form-control" id="basicInput" require>
                                                        </fieldset>
                                                    </div>
                                                    <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
                                                        <fieldset class="form-group">
-                                                           <label for="basicInput">Course Name</label>
+                                                           <label for="basicInput">Course Name<span class="text-danger">*</span></label>
                                                            <input name="course_name" type="text" class="form-control" id="basicInput">
                                                        </fieldset>
                                                    </div>
                                                    <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
-                                                   <fieldset class="form-group">
-                                                           <label for="customSelect">Course Category</label>
+                                                       <fieldset class="form-group">
+                                                           <label for="customSelect">Course Category<span class="text-danger">*</span></label>
                                                            <select class="custom-select block" id="customSelect">
                                                                <option selected>Open this for Categories</option>
                                                                <option value="1">One</option>
@@ -85,20 +87,20 @@
                                                    </div>
                                                    <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
                                                        <fieldset class="form-group">
-                                                           <label for="basicInput">Short Name</label>
+                                                           <label for="basicInput">Short Name<span class="text-danger">*</span></label>
                                                            <input name="short_name" type="text" class="form-control" id="basicInput">
                                                        </fieldset>
                                                    </div>
 
                                                    <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
                                                        <fieldset class="form-group">
-                                                           <label for="basicInput">Video URL</label>
+                                                           <label for="basicInput">Video URL<span class="text-danger">*</span></label>
                                                            <input name="video_url" type="text" class="form-control" id="basicInput">
                                                        </fieldset>
                                                    </div>
                                                    <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
                                                        <fieldset class="form-group">
-                                                           <label for="basicInputFile">Course Logo</label>
+                                                           <label for="basicInputFile">Course Logo<span class="text-danger">*</span></label>
                                                            <div class="custom-file">
                                                                <input name="course_logo" type="file" class="custom-file-input" id="inputGroupFile01">
                                                                <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
@@ -107,45 +109,43 @@
                                                    </div>
                                                    <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
                                                        <fieldset class="form-group">
-                                                           <label for="basicInput">Year of Expirenced Trainers</label>
+                                                           <label for="basicInput">Year of Expirenced Trainers<span class="text-danger">*</span></label>
                                                            <input name="year_of_exp" type="text" class="form-control" id="basicInput" require>
                                                        </fieldset>
                                                    </div>
                                                    <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
                                                        <fieldset class="form-group">
-                                                           <label for="basicInput">Professional Enrolled</label>
+                                                           <label for="basicInput">Professional Enrolled<span class="text-danger">*</span></label>
                                                            <input name="pro_enroll" type="text" class="form-control" id="basicInput">
                                                        </fieldset>
                                                    </div>
                                                    <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
                                                        <fieldset class="form-group">
-                                                           <label for="basicInput">Ratings</label>
+                                                           <label for="basicInput">Ratings<span class="text-danger">*</span></label>
                                                            <input name="rating" type="text" class="form-control" id="basicInput">
                                                        </fieldset>
                                                    </div>
                                                    <div class="col-xl-12 col-lg-12 col-md-12 mb-1">
                                                        <fieldset class="form-group">
-                                                           <label>Short Description</label>
-                                                           <div class="form-group">
-                                                               <textarea name="short_description" id="editor"></textarea>
-                                                           </div>
+                                                           <label class="control-label" for="intro_text">Short Description<span class="text-danger">*</span></label>
+                                                           <textarea class="form-control no-resize summernote" rows="5" cols="100" name="short_description" id="short_description"></textarea>
                                                        </fieldset>
                                                    </div>
                                                    <div class="col-xl-6 col-lg-6 col-md-12 mb-1">
                                                        <fieldset class="form-group">
-                                                           <label for="basicInput">Delivered By</label>
+                                                           <label for="basicInput">Delivered By<span class="text-danger">*</span></label>
                                                            <input name="delivered_by" type="text" class="form-control" id="basicInput">
                                                        </fieldset>
                                                    </div>
                                                    <div class="col-xl-6 col-lg-6 col-md-12 mb-1">
                                                        <fieldset class="form-group">
-                                                           <label for="basicInput">Delivered By Text</label>
+                                                           <label for="basicInput">Delivered By Text<span class="text-danger">*</span></label>
                                                            <input name="delivered_by_text" type="text" class="form-control" id="basicInput">
                                                        </fieldset>
                                                    </div>
                                                    <div class="col-lg-6 col-md-12">
                                                        <fieldset class="form-group">
-                                                           <label for="basicInputFile">Intro Logo 1</label>
+                                                           <label for="basicInputFile">Intro Logo 1<span class="text-danger">*</span></label>
                                                            <div class="custom-file">
                                                                <input name="intro_logo_1" type="file" class="custom-file-input" id="inputGroupFile01">
                                                                <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
@@ -163,27 +163,27 @@
                                                    </div>
                                                    <div class="col-xl-12 col-lg-12 col-md-12 mb-1">
                                                        <fieldset class="form-group">
-                                                           <label for="basicInput">Summary Title</label>
+                                                           <label for="basicInput">Summary Title<span class="text-danger">*</span></label>
                                                            <input name="summary_title" type="text" class="form-control" id="basicInput">
                                                        </fieldset>
                                                    </div>
                                                    <div class="col-md-12">
                                                        <div class="form-group">
-                                                           <label class="control-label" for="intro_text">Short Description<font class="text-danger">*</font></label>
-                                                           <textarea class="form-control no-resize" rows="5" name="short_description" id="short_description"></textarea>
+                                                           <label class="control-label" for="intro_text">Review Schema Description<span class="text-danger">*</span></label>
+                                                           <textarea class="form-control no-resize " rows="5" cols="100" name="short_description" id="short_description"></textarea>
                                                        </div>
                                                    </div>
                                                    <div class="col-xl-12 col-lg-12 col-md-12 mb-1">
                                                        <fieldset class="form-group">
-                                                           <label>Summary Text</label>
-                                                           <div class="form-group">
-                                                               <textarea id="editor2"></textarea>
-                                                           </div>
+                                                           <label>Summary Text<span class="text-danger">*</span></label>
+
+                                                           <textarea class="form-control no-resize " rows="5" cols="100" name="short_description" id="short_description"></textarea>
+
                                                        </fieldset>
                                                    </div>
                                                    <div class="col-lg-6 col-md-12">
                                                        <fieldset class="form-group">
-                                                           <label for="basicInputFile">Course Brochure</label>
+                                                           <label for="basicInputFile">Course Brochure<span class="text-danger">*</span></label>
                                                            <div class="custom-file">
                                                                <input name="course_broucher" type="file" class="custom-file-input" id="inputGroupFile01">
                                                                <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
@@ -192,22 +192,14 @@
                                                    </div>
                                                    <div class="col-lg-6 col-md-12">
                                                        <fieldset class="form-group">
-                                                           <label for="basicInputFile">Course Content</label>
+                                                           <label for="basicInputFile">Course Content<span class="text-danger">*</span></label>
                                                            <div class="custom-file">
                                                                <input name="course_content" type="file" class="custom-file-input" id="inputGroupFile01">
                                                                <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
                                                            </div>
                                                        </fieldset>
                                                    </div>
-
-
-
                                                </div>
-
-
-
-
-
                                            </div>
                    </section>
                    <!-- Basic Inputs end -->
@@ -224,19 +216,19 @@
                                            <div class="row">
                                                <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
                                                    <fieldset class="form-group">
-                                                       <label for="basicInput">Meta Title</label>
+                                                       <label for="basicInput">Meta Title<span class="text-danger">*</span></label>
                                                        <input name="meta_title" type="text" class="form-control" id="basicInput" require>
                                                    </fieldset>
                                                </div>
                                                <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
                                                    <fieldset class="form-group">
-                                                       <label for="basicInput">Meta Description</label>
+                                                       <label for="basicInput">Meta Description<span class="text-danger">*</span></label>
                                                        <input name="meta_description" type="text" class="form-control" id="basicInput">
                                                    </fieldset>
                                                </div>
                                                <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
                                                    <fieldset class="form-group">
-                                                       <label for="basicInput">Meta Keywords </label>
+                                                       <label for="basicInput">Meta Keywords<span class="text-danger">*</span> </label>
                                                        <input name="meta_keywords" type="text" class="form-control" id="basicInput">
                                                    </fieldset>
                                                </div>
@@ -245,16 +237,17 @@
 
 
                                            </div>
+                                           <button type="submit" class="btn btn-primary">Submit</button>
 
                                        </div>
 
                                    </div>
 
                                </div>
+
                            </div>
-                           <div class="col-12">
-                               <button type="submit" class="btn btn-primary">Submit</button>
-                           </div>
+                         
+                        
 
                            </form>
 
@@ -272,25 +265,6 @@
    </div>
    </div>
    </div>
-
-
-
-               <!------------ bottom html ---------------->
-
-               <?php include_once 'includes/bottom.php' ?>
-
-               <!------------ bottom html---------------->
-
-
-
-
-
-
-
-
-
-
-
 
 
    <!------------ bottom html ---------------->

@@ -42,7 +42,13 @@
           <li><a class="menu-item" href="posts.php">Posts</a>
         </ul>
       </li>
-      <li class=" nav-item"><a href="subadmin.php"><i class="fas fa-users-cog"></i><span class="menu-title" data-i18n="">Sub Admin</span><span class=""></span></a>
+      <li class=" nav-item"><a href="#"><i class="fas fa-users-cog"></i><span class="menu-title" data-i18n="">Admin</span></a>
+        <ul class="menu-content">
+          <li><a class="menu-item" href="contacts.php">Permission</a>
+          </li>
+          <li><a class="menu-item" href="subadmin.php">Roles</a>
+        </ul>
+      </li>
     </ul>
   </div>
 </div>

@@ -86,8 +86,8 @@
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
                                                            <a href="trainingslotlist.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
+                                                           <a href="trainingslotedit.php" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-edit"></i></a>
+                                                           <a href="#" class="btn btn-float btn-square btn-info btn-sm"><i class="fas fa-copy"></i></i></a>
                                                            <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
 
                                                        </div>
@@ -103,8 +103,8 @@
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
                                                            <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
+                                                           <a href="trainingslotedit.php" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-edit"></i></a>
+                                                           <a href="#" class="btn btn-float btn-square btn-info btn-sm"><i class="fas fa-copy"></i></i></a>
                                                            <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
 
                                                        </div>
@@ -120,8 +120,9 @@
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
                                                            <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
+                                                           <a href="trainingslotedit.php" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-edit"></i></a>
+                                                           <a href="#" class="btn btn-float btn-square btn-info btn-sm"><i class="fas fa-copy"></i></i></a>
+
                                                            <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
 
                                                        </div>
@@ -137,8 +138,9 @@
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
                                                            <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
+                                                           <a href="trainingslotedit.php" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-edit"></i></a>
+                                                           <a href="#" class="btn btn-float btn-square btn-info btn-sm"><i class="fas fa-copy"></i></i></a>
+
                                                            <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
 
                                                        </div>
@@ -154,8 +156,9 @@
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
                                                            <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
+                                                           <a href="trainingslotedit.php" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-edit"></i></a>
+                                                           <a href="#" class="btn btn-float btn-square btn-info btn-sm"><i class="fas fa-copy"></i></i></a>
+
                                                            <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
 
                                                        </div>
@@ -171,8 +174,9 @@
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
                                                            <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
+                                                           <a href="trainingslotedit.php" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-edit"></i></a>
+                                                           <a href="#" class="btn btn-float btn-square btn-info btn-sm"><i class="fas fa-copy"></i></i></a>
+
                                                            <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
 
                                                        </div>
@@ -188,8 +192,9 @@
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
                                                            <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
+                                                           <a href="trainingslotedit.php" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-edit"></i></a>
+                                                           <a href="#" class="btn btn-float btn-square btn-info btn-sm"><i class="fas fa-copy"></i></i></a>
+
                                                            <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
 
                                                        </div>
@@ -205,8 +210,9 @@
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
                                                            <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
+                                                           <a href="trainingslotedit.php" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-edit"></i></a>
+                                                           <a href="#" class="btn btn-float btn-square btn-info btn-sm"><i class="fas fa-copy"></i></i></a>
+
                                                            <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
 
                                                        </div>
@@ -222,8 +228,9 @@
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
                                                            <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
+                                                           <a href="trainingslotedit.php" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-edit"></i></a>
+                                                           <a href="#" class="btn btn-float btn-square btn-info btn-sm"><i class="fas fa-copy"></i></i></a>
+
                                                            <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
 
                                                        </div>
@@ -239,8 +246,9 @@
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
                                                            <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
+                                                           <a href="trainingslotedit.php" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-edit"></i></a>
+                                                           <a href="#" class="btn btn-float btn-square btn-info btn-sm"><i class="fas fa-copy"></i></i></a>
+
                                                            <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
 
                                                        </div>
@@ -256,8 +264,9 @@
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
                                                            <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
+                                                           <a href="trainingslotedit.php" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-edit"></i></a>
+                                                           <a href="#" class="btn btn-float btn-square btn-info btn-sm"><i class="fas fa-copy"></i></i></a>
+
                                                            <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
 
                                                        </div>
@@ -273,8 +282,9 @@
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
                                                            <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
+                                                           <a href="trainingslotedit.php" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-edit"></i></a>
+                                                           <a href="#" class="btn btn-float btn-square btn-info btn-sm"><i class="fas fa-copy"></i></i></a>
+
                                                            <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
 
                                                        </div>
@@ -290,8 +300,9 @@
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
                                                            <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
+                                                           <a href="trainingslotedit.php" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-edit"></i></a>
+                                                           <a href="#" class="btn btn-float btn-square btn-info btn-sm"><i class="fas fa-copy"></i></i></a>
+
                                                            <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
 
                                                        </div>
@@ -307,8 +318,9 @@
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
                                                            <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
+                                                           <a href="trainingslotedit.php" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-edit"></i></a>
+                                                           <a href="#" class="btn btn-float btn-square btn-info btn-sm"><i class="fas fa-copy"></i></i></a>
+
                                                            <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
 
                                                        </div>
@@ -324,8 +336,9 @@
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
                                                            <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
+                                                           <a href="trainingslotedit.php" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-edit"></i></a>
+                                                           <a href="#" class="btn btn-float btn-square btn-info btn-sm"><i class="fas fa-copy"></i></i></a>
+
                                                            <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
 
                                                        </div>
@@ -340,214 +353,18 @@
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
                                                            <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
+                                                           <a href="trainingslotedit.php" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-edit"></i></a>
+                                                           <a href="#" class="btn btn-float btn-square btn-info btn-sm"><i class="fas fa-copy"></i></i></a>
+
                                                            <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
 
                                                        </div>
                                                    </td>
                                                </tr>
-                                               <tr>
-                                                   <td>17</td>
-                                                   <td>JOHN OKORO</td>
-                                                   <td>50</td>
-                                                   <td> 50</td>
-                                                   <td>12/11/2020 to 12/11/2020</td>
-                                                   <td>
-                                                       <div class="form-group text-center">
-                                                           <!-- Floating icon button Regular -->
-                                                           <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-
-                                                       </div>
-                                                   </td>
-                                               </tr>
-                                               <tr>
-                                                   <td>18</td>
-                                                   <td>JOHN OKORO</td>
-                                                   <td>50</td>
-                                                   <td> 50</td>
-                                                   <td>12/11/2020 to 12/11/2020</td>
-                                                   <td>
-                                                       <div class="form-group text-center">
-                                                           <!-- Floating icon button Regular -->
-                                                           <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-
-                                                       </div>
-                                                   </td>
-                                               </tr>
-                                               <tr>
-                                                   <td>19</td>
-                                                   <td>JOHN OKORO</td>
-                                                   <td>50</td>
-                                                   <td> 50</td>
-                                                   <td>12/11/2020 to 12/11/2020</td>
-                                                   <td>
-                                                       <div class="form-group text-center">
-                                                           <!-- Floating icon button Regular -->
-                                                           <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-
-                                                       </div>
-                                                   </td>
-                                               </tr>
-                                               <tr>
-                                                   <td>20</td>
-                                                   <td>Carol</td>
-                                                   <td>JOHN OKORO</td>
-                                                   <td>50</td>
-                                                   <td> 50</td>
-                                                   <td>12/11/2020 to 12/11/2020</td>
-                                                   <td>
-                                                       <div class="form-group text-center">
-                                                           <!-- Floating icon button Regular -->
-                                                           <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-
-                                                       </div>
-                                                   </td>
-                                               </tr>
-                                               <tr>
-                                                   <td>21</td>
-                                                   <td>JOHN OKORO</td>
-                                                   <td>50</td>
-                                                   <td> 50</td>
-                                                   <td>12/11/2020 to 12/11/2020</td>
-                                                   <td>
-                                                       <div class="form-group text-center">
-                                                           <!-- Floating icon button Regular -->
-                                                           <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-
-                                                       </div>
-                                                   </td>
-                                               </tr>
-                                               <tr>
-                                                   <td>22</td>
-                                                   <td>JOHN OKORO</td>
-                                                   <td>50</td>
-                                                   <td> 50</td>
-                                                   <td>12/11/2020 to 12/11/2020</td>
-                                                   <td>
-                                                       <div class="form-group text-center">
-                                                           <!-- Floating icon button Regular -->
-                                                           <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-
-                                                       </div>
-                                                   </td>
-                                               </tr>
-                                               <tr>
-                                                   <td>23</td>
-                                                   <td>JOHN OKORO</td>
-                                                   <td>50</td>
-                                                   <td> 50</td>
-                                                   <td>12/11/2020 to 12/11/2020</td>
-                                                   <td>
-                                                       <div class="form-group text-center">
-                                                           <!-- Floating icon button Regular -->
-                                                           <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-
-                                                       </div>
-                                                   </td>
-                                               </tr>
-                                               <tr>
-                                                   <td>24</td>
-                                                   <td>JOHN OKORO</td>
-                                                   <td>50</td>
-                                                   <td> 50</td>
-                                                   <td>12/11/2020 to 12/11/2020</td>
-                                                   <td>
-                                                       <div class="form-group text-center">
-                                                           <!-- Floating icon button Regular -->
-                                                           <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-
-                                                       </div>
-                                                   </td>
-                                               </tr>
-                                               <tr>
-                                                   <td>25</td>
-                                                   <td>JOHN OKORO</td>
-                                                   <td>50</td>
-                                                   <td> 50</td>
-                                                   <td>12/11/2020 to 12/11/2020</td>
-                                                   <td>
-                                                       <div class="form-group text-center">
-                                                           <!-- Floating icon button Regular -->
-                                                           <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-
-                                                       </div>
-                                                   </td>
-                                               </tr>
-                                               <tr>
-                                                   <td>26</td>
-                                                   <td>JOHN OKORO</td>
-                                                   <td>50</td>
-                                                   <td> 50</td>
-                                                   <td>12/11/2020 to 12/11/2020</td>
-                                                   <td>
-                                                       <div class="form-group text-center">
-                                                           <!-- Floating icon button Regular -->
-                                                           <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-
-                                                       </div>
-                                                   </td>
-                                               </tr>
-                                               <tr>
-                                                   <td>27</td>
-                                                   <td>JOHN OKORO</td>
-                                                   <td>50</td>
-                                                   <td> 50</td>
-                                                   <td>12/11/2020 to 12/11/2020</td>
-                                                   <td>
-                                                       <div class="form-group text-center">
-                                                           <!-- Floating icon button Regular -->
-                                                           <a href="viewcourse.php" class="btn btn-float btn-square btn-primary btn-sm"><i class="fa fa-eye"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square  btn-warning btn-sm"><i class="fa fa-times"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-                                                           <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
-
-                                                       </div>
-                                                   </td>
-                                               </tr>
+                                               
 
                                            </tbody>
-                                           <tfoot>
-                                               <tr>
-                                                   <th>Course</th>
-                                                   <th>Trainer</th>
-                                                   <th>Total Seats</th>
-                                                   <th>Available Seats</th>
-                                                   <th>Date</th>
-                                                   <th>Action</th>
-
-                                               </tr>
-                                           </tfoot>
+                                           
                                        </table>
                                    </div>
                                </div>

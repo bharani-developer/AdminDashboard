@@ -3,7 +3,7 @@
 <!-- BEGIN VENDOR JS-->
 
 <!-- BEGIN PAGE VENDOR JS-->
-<link rel="stylesheet" type="text/css" href="assets/fonts/simple-line-icons/style.min.css">
+<!-- <link rel="stylesheet" type="text/css" href="assets/fonts/simple-line-icons/style.min.css"> -->
 <!-- END PAGE VENDOR JS-->
 
 <!-- BEGIN STACK JS-->
@@ -18,6 +18,12 @@
 <!-- BEGIN PAGE VENDOR JS-->
 <script src="assets/js/datatables.min.js" type="text/javascript"></script>
 <!-- END PAGE VENDOR JS-->
+<script src="assets/js/daterangepicker.js" type="text/javascript"></script>
+<script src="assets/js/picker.js" type="text/javascript"></script>
+<script src="assets/js/picker.date.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.12/summernote.js"></script>
+<script src="assets/js/jquery.bootstrap-touchspin.js" type="text/javascript"></script>
+
 
 <!-- BEGIN CUSTOM LEVEL JS-->
 <script src="assets/js/script.js"></script>

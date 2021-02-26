@@ -434,15 +434,7 @@
                                     </tr>
 
                                  </tbody>
-                                 <tfoot>
-                                    <tr>
-                                       <th>S.No</th>
-                                       <th>Heading</th>
-                                       <th>Description</th>
-                                       <th>Position</th>
-                                       <th>Action</th>
-                                    </tr>
-                                 </tfoot>
+                                
                               </table>
                            </div>
                         </div>
@@ -451,7 +443,7 @@
 
 
                   <div class="content-header-right col-md-5 col-12">
-                     <h5>Add Certification Process</h5>
+                     <h5>Add / Update Certification Process</h5>
 <br>
 <br>
                      <form class="validate1" action="#" id="curriculum-form" method="POST">
@@ -464,7 +456,7 @@
                               </div>
                               <div class="form-group">
                                  <label class="control-label" for="answer">Description<font class="text-danger">*</font></label>
-                                 <textarea class="form-control editable" rows="5" name="answer" id="answer" required></textarea>
+                                 <textarea class="form-control summernote" rows="5" name="answer" id="answer" required></textarea>
                               </div>
                               <div class="form-group">
                                  <label class="control-label" for="question">Position</font></label>
@@ -473,10 +465,9 @@
                            </div>
 
                         </div>
-                        <input type="hidden" name="type" value="2">
-                        <div class="col-12">
+                    
                                 <button type="submit" class="btn btn-primary">Submit</button>
-                            </div>
+                 
 
                      </form>
                   </div>

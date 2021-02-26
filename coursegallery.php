@@ -67,7 +67,7 @@
                <div class="row">
                   <div class="col-7">
                      <div class="card">
-                     <h5>Gallery List</h5>
+                        <h5>Gallery List</h5>
                         <div class="card-content collapse show">
                            <div class="card-body card-dashboard">
 
@@ -88,8 +88,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                             
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -97,12 +97,12 @@
                                        <td>2</td>
                                        <td>Python for Data Science</td>
                                        <td>Image</td>
-                                       
+
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                             
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -113,8 +113,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                             
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -125,8 +125,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -137,8 +137,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -149,8 +149,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -161,8 +161,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -173,8 +173,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -185,8 +185,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -197,8 +197,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -209,8 +209,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -221,8 +221,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -233,8 +233,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -245,8 +245,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -257,8 +257,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     <tr>
@@ -268,8 +268,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -280,8 +280,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -292,8 +292,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -304,8 +304,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -316,8 +316,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -328,8 +328,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -340,8 +340,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -352,8 +352,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -364,8 +364,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -376,8 +376,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -388,8 +388,8 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
@@ -400,14 +400,14 @@
                                        <td>
                                           <div class="form-group text-center">
                                              <!-- Floating icon button Regular -->
-                                            
-                                              <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
+
+                                             <a href="#" class="btn btn-float btn-square btn-warning btn-sm" data-toggle="modal" data-target="#iconModal"><i class="fa fa-edit"></i></a>
                                              <a href="#" class="btn btn-float btn-square btn-danger btn-sm"><i class="fa fa-trash"></i></a>
                                           </div>
                                     </tr>
 
                                  </tbody>
-                                 
+
                               </table>
                            </div>
                         </div>
@@ -416,33 +416,32 @@
 
 
                   <div class="content-header-right col-md-5 col-12">
-                     <h5>Add Image</h5>
-<br>
-<br>
+                     <h5>Add / Update Image</h5>
+                     <br>
+                     <br>
                      <form class="validate1" action="#" id="curriculum-form" method="POST">
-                        
+
                         <div class="row">
                            <div class="col-md-12">
                               <div class="form-group">
-                                 <label class="control-label" for="question">Title</font></label>
+                                 <label class="control-label" for="question">Title<span class="text-danger">*</span></label>
                                  <input type="text" class="form-control" name="question" id="question" required />
                               </div>
                               <div class="form-group">
-                              <fieldset class="form-group">
-                                                       <label for="basicInputFile">Image</label>
-                                                       <div class="custom-file">
-                                                           <input name="course_broucher" type="file" class="custom-file-input" id="inputGroupFile01">
-                                                           <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
-                                                       </div>
-                                                   </fieldset>
+                                 <fieldset class="form-group">
+                                    <label for="basicInputFile">Image<span class="text-danger">*</span></label>
+                                    <div class="custom-file">
+                                       <input name="course_broucher" type="file" class="custom-file-input" id="inputGroupFile01">
+                                       <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+                                    </div>
+                                 </fieldset>
                               </div>
                            </div>
 
                         </div>
-                        <input type="hidden" name="type" value="2">
-                        <div class="col-12">
-                                <button type="submit" class="btn btn-primary">Submit</button>
-                            </div>
+                
+                           <button type="submit" class="btn btn-primary">Submit</button>
+                
 
                      </form>
                   </div>
@@ -456,50 +455,12 @@
       </div>
 
    </div>
-   <div class="modal fade text-left" id="iconModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel2" aria-hidden="true">
-       <div class="modal-dialog" role="document">
-           <div class="modal-content">
-               <div class="modal-header">
-                   <h4 class="modal-title" id="myModalLabel2"><i class="fas fa-hashtag"></i>
-                       Edit Course Gallery</h4>
-                   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                       <span aria-hidden="true">&times;</span>
-                   </button>
-               </div>
-               <div class="modal-body">
-                   <div class="row">
-                       <div class="col-xl-12 col-lg-12 col-md-12 mb-1">
-                           <fieldset class="form-group">
-                               <label for="basicInput">Title<font class="text-danger">*</font></label>
-                               <input type="text" class="form-control" id="basicInput">
-                           </fieldset>
-                       </div>
-                    
-                       <div class="col-xl-12 col-lg-12 col-md-12 mb-1">
-                       <fieldset class="form-group">
-                                                       <label for="basicInputFile">Image</label>
-                                                       <div class="custom-file">
-                                                           <input name="course_logo" type="file" class="custom-file-input" id="inputGroupFile01">
-                                                           <label  class="custom-file-label" for="inputGroupFile01">Choose file</label>
-                                                       </div>
-                                                   </fieldset>
-                       </div>
 
-                   </div>
-                   <div class="modal-footer">
-                       <button type="button" class="btn grey btn-outline-secondary" data-dismiss="modal">Close</button>
-                       <button type="button" class="btn btn-outline-primary">Save changes</button>
-                   </div>
-               </div>
-           </div>
-       </div>
-   </div>
-   </div>
    <!-- ////////////////////////////////////////////////////////////////////////////-->
 
 
-               <!------------ bottom html ---------------->
+   <!------------ bottom html ---------------->
 
-               <?php include_once 'includes/bottom.php' ?>
+   <?php include_once 'includes/bottom.php' ?>
 
-               <!------------ bottom html---------------->
+   <!------------ bottom html---------------->

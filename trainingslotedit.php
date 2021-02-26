@@ -32,7 +32,8 @@
                                </li>
                                <li class="breadcrumb-item"><a href="index.html">Training Slot</a>
                                </li>
-                               <li class="breadcrumb-item active">Add Training Slot
+
+                               <li class="breadcrumb-item active">Edit Training Slot
                                </li>
                            </ol>
                        </div>
@@ -52,7 +53,7 @@
                            <div class="col-md-12">
                                <div class="card">
                                    <div class="card-header">
-                                       <h4 class="card-title">Add Training Slot</h4>
+                                       <h4 class="card-title">Edit Training Slot</h4>
                                    </div>
 
                                    <div class="card-content">

@@ -364,17 +364,7 @@
                         </tr>
                        
                       </tbody>
-                      <tfoot>
-                        <tr>
-                        <th>S.No</th>
-                          <th>Name</th>
-                          <th>Email</th>
-                          <th>Mobile</th>
-                          <th>Create At</th>
-                          <th>Action</th>
-                          
-                        </tr>
-                      </tfoot>
+                     
                     </table>
                   </div>
                 </div>

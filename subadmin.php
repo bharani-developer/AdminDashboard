@@ -74,7 +74,7 @@
                                                <tr>
                                                    <th>S.No</th>
                                                    <th>Name</th>
-                                                   <th>Email</th>
+                                                   <th>Role</th>
                                                   
                                                </tr>
                                            </thead>
@@ -82,7 +82,7 @@
                                                <tr>
                                                    <td>1</td>
                                                    <td>Haj Mohamed</td>
-                                                   <td>haj.nexevo+1@gmail.com</td>
+                                                   <td>Trainer</td>
                                                    <td>
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
@@ -94,7 +94,7 @@
                                                <tr>
                                                    <td>2</td>
                                                    <td>Habeeb</td>
-                                                   <td>habeeb@nexevo.in</td>
+                                                   <td>Trainer</td>
                                                    <td>
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
@@ -106,7 +106,7 @@
                                                <tr>
                                                    <td>3</td>
                                                    <td>Python for Data Science</td>
-                                                   <td>Subadmin@gmail.com</td>
+                                                   <td>Admin</td>
 
                                                    <td>
                                                        <div class="form-group text-center">
@@ -119,7 +119,7 @@
                                                <tr>
                                                    <td>4</td>
                                                    <td>Python for Data Science</td>
-                                                   <td>Subadmin@gmail.com</td>
+                                                   <td>Admin</td>
                                                    <td>
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
@@ -131,7 +131,7 @@
                                                <tr>
                                                    <td>5</td>
                                                    <td>Sub admin</td>
-                                                   <td>Subadmin@gmail.com</td>
+                                                   <td>Admin</td>
                                                    <td>
                                                        <div class="form-group text-center">
                                                            <!-- Floating icon button Regular -->
